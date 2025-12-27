@@ -21,7 +21,7 @@ export const BUS_ROUTES: RouteData[] = [
     "id": "2-vuelta",
     "name": "Alameda Principal – Alegría de la Huerta",
     "stops": ["Plaza John F. Kennedy", "Av. Jacinto Benavente", "Av. Ramón y Cajal - Mercado", "Av. Ramón y Cajal - Bda. Sgda. Familia", "Av. Ramón y Cajal - Bda. Del Carmen", "Av. Ramón y Cajal - Cristo Rey", "Av. Jorge Silvela", "Paseo de Martiricos", "Av. de Fátima", "Av. de Fátima - Trinidad", "Santo Domingo - Perchel", "Atarazanas"]
-  }
+  },
   {
     "id": "3-ida",
     "name": "Puerta Blanca - Alameda Principal - El Palo (Olías)",
@@ -115,7 +115,7 @@ export const BUS_ROUTES: RouteData[] = [
   {
     "id": "15-ida",
     "name": "Virreina - Carlos Haya - Santa Paula",
-    "stops": ["Jane Bowles - Borodin", "Jane Bowles - Von Karajan", "Plaza Herbert Von Karajan", "Cmno. de la Virreina", "Av. de la Palmilla - Centro de Salud", "Av. de la Palmilla - Instituto Guadalmedina", "Av. de la Palmilla - Campo de Futbol", "Av. Dr. Marañón - Conde de Ferrería", "Av. Arroyo de los Ángeles - Guardia Civil", "Av. Arroyo de los Ángeles - Hospital Materno", "Blas de Lezo", "Cmno. de Suárez - Blas de Lezo", "Dr. Escassi - Dr. Lazárraga", "Dr. Escassi - Las Chapas", "Martínez Maldonado - Arroyo del Cuarto", "Av. Carlos Haya - Parque del Norte", "Av. Carlos Haya - Los Remedios", "Av. Sta. Rosa de Lima", "Av. Sta. Rosa de Lima - Competa", "Virgen de la Cabeza - J. Viciana", "Av. Juan XXIII - Barbarela", "Av. Juan XXIII - Cmno. de San Rafael", "Av. Juan XXIII - Bodegueros", "Av. Europa", "Av. de la Paloma", "Av. de la Paloma - Bda. Girón", "Av. Sor Teresa Prat - Tabacalera", "Las Delicias", "Parque Mediterráneo", "Luis Barahona Soto - Parque del Oeste", "Santa Paula", "Cmno. de la Térmica - Selene", "Cmno. de la Térmica - Las Pirámides"]
+    "stops": ["Jane Bowles - Borodin", "Jane Bowles - Von Karajan", "Plaza Herbert Von Karajan", "Cmno. de la Virreina", "Av. de la Palmilla - Centro de Salud", "Av. de la Palmilla - Instituto Guadalmedina", "Av. de la Palmilla - Campo de Futbol", "Av. Dr. Marañón - Conde de Ferrería", "Av. Arroyo de los Ángeles - Guardia Civil", "Av. Arroyo de los Ángeles - Hospital Materno", "Blas de Lezo", "Cmno. de Suarez - Blas de Lezo", "Dr. Escassi - Dr. Lazárraga", "Dr. Escassi - Las Chapas", "Martínez Maldonado - Arroyo del Cuarto", "Av. Carlos Haya - Parque del Norte", "Av. Carlos Haya - Los Remedios", "Av. Sta. Rosa de Lima", "Av. Sta. Rosa de Lima - Competa", "Virgen de la Cabeza - J. Viciana", "Av. Juan XXIII - Barbarela", "Av. Juan XXIII - Cmno. de San Rafael", "Av. Juan XXIII - Bodegueros", "Av. Europa", "Av. de la Paloma", "Av. de la Paloma - Bda. Girón", "Av. Sor Teresa Prat - Tabacalera", "Las Delicias", "Parque Mediterráneo", "Luis Barahona Soto - Parque del Oeste", "Santa Paula", "Cmno. de la Térmica - Selene", "Cmno. de la Térmica - Las Pirámides"]
   },
   {
     "id": "15-vuelta",
@@ -300,7 +300,7 @@ export const BUS_ROUTES: RouteData[] = [
   {
     "id": "37-ida",
     "name": "Av. Andalucía - Altamira - Monte Dorado",
-    "stops": ["Av. Andalucía", "Alameda Principal - Sur", "Paseo del Parque - Plaza de la Marina", "Paseo del Parque - Ayuntamiento", "Paseo del Parque - Plaza del General Torrijos", "Victoria - Plaza de la Merced", "Victoria", "Compás de la Victoria", "Fernando el Católico", "Plaza Maestro Artola", "Alameda de Capuchinos - El Ejido", "Alameda de Capuchinos", "Plaza de Olletas", "Olletas - Cmno. del Colmenar", "Cmno. de los Almendrales - Toquero", "Cmno. de los Almendrales - Seminario", "Cmno. de los Almendrales - Sierra Blanquilla", "Cmno. de los Almendrales - Seminario", "Cmno. de los Almendrales - Toquero", "Olletas - Cmno. del Colmenar", "Av. Manuel Gorria", "Escritor Antonio Ramos - Av. Pascueros", "Escritor Antonio Ramos - Colegio", "Cmno. Colmenar - Los Antonios", "Cmno. Colmenar - Cuesta Tasara", "Cmno. del Colmenar - Monte Dorado", "Cmno. del Colmenar - Bradamante", "Cmno. de Colmenar - Res. Sta. Clara"]
+    "stops": ["Av. Andalucía", "Alameda Principal - Sur", "Paseo del Parque - Plaza de la Marina", "Paseo del Parque - Ayuntamiento", "Paseo del Parque - Plaza del General Torrijos", "Victoria - Plaza de la Merced", "Victoria", "Compás de la Victoria", "Fernando el Católico", "Plaza Maestro Artola", "Alameda de Capuchinos - El Ejido", "Alameda de Capuchinos", "Plaza de Olletas", "Olletas - Cmno. del Colmenar", "Cmno. de los Almendrales - Toquero", "Cmno. de los Almendrales - Seminario", "Cmno. de los Almendrales - Sierra Blanquilla", "Cmno. de los Almendrales - Seminario", "Cmno. de los Almendrales - Toquero", "Olletas - Cmno. del Colmenar", "Av. Manuel Gorria", "Escritor Antonio Ramos - Av. Pascueros", "Escritor Antonio Ramos - Colegio", "Cmno. Colmenar - Los Antonios", "Cmno. Cuesta Tasara", "Cmno. del Colmenar - Monte Dorado", "Cmno. del Colmenar - Bradamante", "Cmno. de Colmenar - Res. Sta. Clara"]
   },
   {
     "id": "37-vuelta",
